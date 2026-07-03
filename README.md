@@ -1,3 +1,5 @@
+<img width="1918" height="1064" alt="Screenshot 2026-07-03 170017" src="https://github.com/user-attachments/assets/5594fae4-4b50-4ea1-94f6-9e3de902f124" />
+<img width="1918" height="1064" alt="Screenshot 2026-07-03 170017" src="https://github.com/user-attachments/assets/f6f5ef21-d02b-483c-9c9e-10d21f207ede" />
 # AI-Powered Terraform Security Gatekeeper
 
 ## 🚀 Overview
@@ -56,7 +58,9 @@ The gatekeeper follows a modular, container-ready architecture designed for scal
 | **Insecure Main.tf** | `FAIL` | Blocked ❌ |
 | **Secure Main.tf** | `PASS` | Proceeding ✅ |
 
-![Security Scan Failed]("C:\Users\Qaim Raza Khan\Pictures\Screenshots\Screenshot 2026-07-03 170017.png")
+![Security Scan Failed]("<img width="1919" height="1142" alt="Screenshot 2026-06-30 154200" src="https://github.com/user-attachments/assets/2c704971-d776-401f-9363-c2155d4986a2" />
+<img width="1918" height="1064" alt="Screenshot 2026-07-03 170017" src="https://github.com/user-attachments/assets/f973ce45-4723-4092-ba1d-62bfcb9c6644" />
+")
 
 ---
 
