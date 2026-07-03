@@ -57,7 +57,7 @@ def scan_terraform(file_path):
 
 if __name__ == "__main__":
     # Point to your terraform file
-    if scan_terraform('main.tf'):
+    if scan_terraform('main_secure.tf'):
         print("Security Scan Passed.")
         sys.exit(0) # Exit 0 = Success
     else:
