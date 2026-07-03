@@ -56,7 +56,7 @@ The gatekeeper follows a modular, container-ready architecture designed for scal
 | **Insecure Main.tf** | `FAIL` | Blocked ❌ |
 | **Secure Main.tf** | `PASS` | Proceeding ✅ |
 
-![Security Scan Failed](docs/image_f670f0.png)
+![Security Scan Failed]("C:\Users\Qaim Raza Khan\Pictures\Screenshots\Screenshot 2026-07-03 170017.png")
 
 ---
 
@@ -69,4 +69,3 @@ The gatekeeper follows a modular, container-ready architecture designed for scal
 ## 🤝 Contributors
 * **[Qaim Raza Khan](https://github.com/qaim-khanx)** - Lead Architecture & Implementation
 
-*Inspired by FinOps best practices and modern DevSecOps governance models.*
